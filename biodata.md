@@ -4,9 +4,9 @@
 
 ## Informasi Pribadi
 
-* *Nama Lengkap:* Muhammad Nur Afifi
-* *Jenis Kelamin:* Laki-laki
-* *Kewarganegaraan:* Indonesia
+* **Nama Lengkap:** Muhammad Nur Afifi
+* **Jenis Kelamin:** Laki-laki
+* **Kewarganegaraan:** Indonesia
 
 ## Informasi Kontak
 
